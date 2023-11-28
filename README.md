@@ -1,2 +1,3 @@
-# Assembly-language-study-notes
- Record the assembly learning process
+### 简述
+  过去我并不经常做笔记，这导致有很多明明学过的东西，时间久了就被忘掉，然后还需要去Google以前的知识，有时会找不到当时那篇令我满意的文章。所以现在我开始试着去记录一些学习的过程，以便总是可以轻松找到他们。
+  这次记录的是学习汇编语言的一些过程，Always Change and Keep going。

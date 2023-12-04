@@ -22,6 +22,6 @@ CPU在访问内存单元时要给出内存单元的地址，所有的内存单�
 &emsp;不禁会问，明明寻址能力是1M，但是实际上只有64KB，这种问题要如何解决？
 解决方案就是，用两个十六位的地址(段地址和偏移地址)，通过地址加法器，合成一个二十位的物理地址。
 <div align="center">  
-  <img src = "https://github.com/V9n0m/Assembly-language-study-notes/assets/81289456/1c5aed7b-baeb-4c07-9393-92ded7abe534" width = 20% />
+  <img src = "https://github.com/V9n0m/Assembly-language-study-notes/assets/81289456/1c5aed7b-baeb-4c07-9393-92ded7abe534" width = 60% />
 </div>
 

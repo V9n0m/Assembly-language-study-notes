@@ -34,5 +34,10 @@ E命令的作用是改变内存中的内容，可以用``` e 1000:0 数据1 数�
   <img src = "https://github.com/V9n0m/Assembly-language-study-notes/assets/81289456/361ce434-e6df-41aa-b45c-fd6dff5d74cb" width = 60% />
 </div>
 
+除此之外还可以通过使用``` e 1000:0 ```这种方式修改，与上一中方式不同的是，这种方式输入指令后会先给你原来的数据，然后.后面的就是重新输入的新数据，空格之后就会出现下一个原来的数据。
+<div align = "center">
+  <img src = "https://github.com/V9n0m/Assembly-language-study-notes/assets/81289456/8f94c7b6-04e3-48a7-b164-eddbf574ee3f" width = 60% />
+</div>
+
 
 

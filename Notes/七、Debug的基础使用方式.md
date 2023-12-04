@@ -39,5 +39,13 @@ E命令的作用是改变内存中的内容，可以用``` e 1000:0 数据1 数�
   <img src = "https://github.com/V9n0m/Assembly-language-study-notes/assets/81289456/8f94c7b6-04e3-48a7-b164-eddbf574ee3f" width = 60% />
 </div>
 
+### -u命令
+U命令的作用是将内存中的二进制数据转换为汇编指令展示(反汇编)
+D命令能够将内存中的数据以16进制或ascll码的形式展现出来，但有时我们需要观察的是内存中的机器指令时，D命令的视图过于抽象，不利于理解。debug提供了U命令来解决这个问题。
+<div align = "center">
+  <img src = "https://github.com/V9n0m/Assembly-language-study-notes/assets/81289456/3df69325-5083-4c58-a235-d501efb56187" width = 60% />
+</div>
+
+
 
 

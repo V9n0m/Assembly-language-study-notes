@@ -54,5 +54,13 @@ A命令的作用是能够以汇编指令的形式，向内存中写入内容，�
   <img src = "https://github.com/V9n0m/Assembly-language-study-notes/assets/81289456/b54f7279-af6f-46b9-9124-bb3dc3509be3" width = 60% />
 </div>
 
+### -t命令
+T命令的作用是单步机器指令的调试，直接就是-t，有点像其他语言程序Debug打完断点后，进行下一步的操作。
+<div align = "center">
+  <img src = "https://github.com/V9n0m/Assembly-language-study-notes/assets/81289456/5170164c-8e24-430e-8978-613ca6bceb1c" width = 60% />
+</div>
+
+### -q命令
+退出
 
 
